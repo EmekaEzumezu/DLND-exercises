@@ -1,0 +1,1 @@
+This repository contains all my notebook exercises for Udacity Deep Learning Nanodegree Program. Exercises on Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks and Deploying a Model.
